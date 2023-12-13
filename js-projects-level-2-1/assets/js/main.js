@@ -1,0 +1,1 @@
+// In dieser Übung sollst du ein Formular erstellen, das einen Bereich hat, wo man eine Nachricht eingeben kann, und einen weiteren Bereich, in dem die Nachricht ausgegeben wird. Falls keine Nachricht eingeben wird, soll eine Warnung erscheinen. Schau dir die Vorschau an und versuche es umzusetzen.
